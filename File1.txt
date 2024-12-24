@@ -3,3 +3,5 @@ Adding hotfix code here. Happy Coding!!
 
 Added the feature1fromweb
 Added the feature2fromweb
+
+New feature added to the project: newFeature1
