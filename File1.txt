@@ -6,3 +6,7 @@ Added the feature2fromweb
 
 New feature added to the project: newFeature1
 newFeature1 -> 1.2
+
+
+Added a new line 
+Added another new line for testing
