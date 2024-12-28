@@ -1,1 +1,12 @@
 Added File 1 to the repo
+Adding hotfix code here. Happy Coding!! 
+
+Added the feature1fromweb
+Added the feature2fromweb
+
+New feature added to the project: newFeature1
+newFeature1 -> 1.2
+
+
+Added a new line 
+Added another new line for testing
