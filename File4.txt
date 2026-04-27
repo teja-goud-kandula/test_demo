@@ -1,7 +1,4 @@
 Added File4 to the repo
-<<<<<<<<< Temporary merge branch 1
 Adding line1 in File4
-=========
 Adding line1 in File4
 Adding line2 in File4
->>>>>>>>> Temporary merge branch 2
